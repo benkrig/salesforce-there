@@ -1,0 +1,38 @@
+{
+  "name": "salesforce-there",
+  "version": "0.0.1",
+  "description": "the salesforce-there module streamlines the migration and pushing of Salesforce metadata",
+  "main": "./lib/salesforce-there.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benkrig/salesforce-there"
+  },
+
+  "files": [
+    "README.md",
+    "package.json",
+    "lib"
+  ],
+
+  "keywords": [
+    "salesforce",
+    "metadata",
+    "migration",
+    "push"
+  ],
+
+  "engines": {
+  "node": ">=0.10.0"
+  },
+
+  "author": "Benjamin Krig",
+  "license": "Copyright (c) 2015",
+  "bugs": {
+    "url": "https://github.com/benkrig/salesforce-there/issues"
+  },
+  "homepage": "https://github.com/benkrig/salesforce-there"
+}
