@@ -18,6 +18,12 @@
     "lib"
   ],
 
+  "dependencies": {
+    "jsforce": "",
+    "express": "",
+    "aws-sdk": ""
+  },
+
   "keywords": [
     "salesforce",
     "metadata",
